@@ -18,7 +18,7 @@ When patients lose decision-making capacity, large language models (LLMs) may he
   <sub><em>
     Figure 1. Data processing and modeling framework for assessing value-informed, LLM-enabled decision support. Figure 1A. Comparison of LLM and human proxy decision-making for hypothetical end-of-life scenarios with and without access to documented patient values. Figure 1B. Workflow for EHR summarization, value extraction, value-profile generation, and LLM treatment recommendation for real-world incapacitated patients.
   </em></sub>
-</div>
+</div> /n
 
 #### Main Findings
 * Patient-proxy decisional agreement (i.e., choosing the same treatment) on hypothetical clinical scenarios was 44.7% (95% CI: 28.6-61.9%), similar to previous reports.
