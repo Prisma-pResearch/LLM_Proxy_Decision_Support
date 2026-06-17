@@ -22,8 +22,8 @@ When patients lose decision-making capacity, large language models (LLMs) may he
 
 #### Main Findings
 * Patient-proxy decisional agreement (i.e., choosing the same treatment) on hypothetical clinical scenarios was 44.7% (95% CI: 28.6-61.9%), similar to previous reports.
-* Patient-LLM decisional agreement was greater at 72.6% (95% CI: 61.9-85.7%), but when the LLM was stripped of information describing patients’ values, its ability to choose the same treatment as the patient decreased substantially and matched the ability of human proxies.
-* The LLM inferred patients’ values from real-world EHR clinical notes with low accuracy, underscoring the importance of having patients formally document their values before decisional capacity is lost.
+* Patient-LLM decisional agreement was greater at 72.6% (95% CI: 61.9-85.7%), but when the LLM was stripped of information describing patients’ values, its ability to choose the same treatment decreased to the same as the human proxies.
+* LLMs inferred patients’ values from real-world EHR clinical notes with low accuracy, underscoring the importance of having patients formally document their values before decisional capacity is lost.
 * LLM utility degraded when value profiles were written at lower reading levels.
 
 #### Conclusions
