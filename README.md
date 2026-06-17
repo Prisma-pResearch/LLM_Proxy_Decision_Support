@@ -2,7 +2,7 @@
 Nolan V†, Brown M†, Balch J, Katukota A, Abbas S, Devaguptapu P, Baskaran N, Abbott K, Shickel B, Efron P, Upchurch G, Bihorac A, Sharadin N, Tignanelli C, 
 Moseley R‡, Loftus T‡* (2026).
 
-* * Corresponding author: Tyler.Loftus@surgery.ufl.edu 
+* Corresponding author *: Tyler.Loftus@surgery.ufl.edu 
 * † Drs. Nolan and Brown contributed equally 
 * ‡ Drs. Moseley and Loftus contributed equally
 
