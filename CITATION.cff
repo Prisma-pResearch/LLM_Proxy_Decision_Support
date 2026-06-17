@@ -1,4 +1,4 @@
-preferred-citation:
-  type: manuscript
-  title: "Language models for value-informed proxy decision support"
-  status: submitted
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below.
+title: "Language models for value-informed proxy decision support"
+status: submitted
