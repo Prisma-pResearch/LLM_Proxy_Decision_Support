@@ -11,13 +11,11 @@ Advance Directives, Artificial Intelligence, Clinical Decision Making, Critical 
 
 #### Overview
 When patients lose decision-making capacity, large language models (LLMs) may help proxies choose treatments that honor incapacitated patients’ values and preferences, especially when Advanced Directives or formally identified proxies are ambiguous or unavailable. In a primary analysis, we prospectively enrolled 30 adults representing 15 dyads (15 patients alongside their legal, patient-designated, proxy decision-maker) and compared patient-proxy versus patient-LLM binary decisional agreement on multiple-choice hypothetical clinical scenarios, with and without providing patients’ value profiles to the LLM; patients’ value profiles were not provided to the human proxy. In secondary analyses, we explored the extraction of value profiles from electronic health record data for situations in which patients lose decisional capacity before their values are formally documented and critically evaluate the use of value profiles written at lower reading levels.
-<img width="2850" height="2269" alt="Figure1" src="https://github.com/user-attachments/assets/9fe491c7-fb43-420b-8337-cb7763c3c89d" />
+<img width="1850" height="1269" alt="Figure1" src="https://github.com/user-attachments/assets/9fe491c7-fb43-420b-8337-cb7763c3c89d" />
 <p align="center">
-  <em>
-  Figure 1. Data processing and modeling framework for assessing value-informed, LLM-enabled decision support.
-  <strong>Figure 1A.</strong> Comparison of LLM and human proxy decision-making for hypothetical end-of-life scenarios with and without access to documented patient values. The LLM selected one of five treatment options across three decisional-incapacity scenarios while answering as either the patient or the proxy.
-  <strong>Figure 1B.</strong> Workflow for summarizing clinical information, extracting patient values, generating value profiles at varying reading levels, and obtaining LLM treatment recommendations for real-world incapacitated patients. Treatment recommendations and value extraction accuracy were manually adjudicated.
-  </em>
+  <sub><em>
+  Figure 1. Data processing and modeling framework for assessing value-informed, LLM-enabled decision support. Figure 1A. Comparison of LLM and human proxy decision-making for hypothetical end-of-life scenarios with and without access to documented patient values. Figure 1B. Workflow for clinical information summarization, value extraction, value-profile generation, and LLM treatment recommendation for real-world incapacitated patients.
+  </em></sub>
 </p>
 
 #### Main Findings
