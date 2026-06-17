@@ -12,14 +12,13 @@ Advance Directives, Artificial Intelligence, Clinical Decision Making, Critical 
 #### Overview
 When patients lose decision-making capacity, large language models (LLMs) may help proxies choose treatments that honor incapacitated patients’ values and preferences, especially when Advanced Directives or formally identified proxies are ambiguous or unavailable. In a primary analysis, we prospectively enrolled 30 adults representing 15 dyads (15 patients alongside their legal, patient-designated, proxy decision-maker) and compared patient-proxy versus patient-LLM binary decisional agreement on multiple-choice hypothetical clinical scenarios, with and without providing patients’ value profiles to the LLM; patients’ value profiles were not provided to the human proxy. In secondary analyses, we explored the extraction of value profiles from electronic health record data for situations in which patients lose decisional capacity before their values are formally documented and critically evaluate the use of value profiles written at lower reading levels.
 
-<p align="center">
+<div align="center">
   <img width="700" alt="Figure1" src="https://github.com/user-attachments/assets/8f792246-0143-4ea4-b755-065d8be2323d" />
-</p>
-<p align="center">
+  <br>
   <sub><em>
-  Figure 1. Data processing and modeling framework for assessing value-informed, LLM-enabled decision support. Figure 1A. Comparison of LLM and human proxy decision-making for hypothetical end-of-life scenarios with and without access to documented patient values. Figure 1B. Workflow for EHR summarization, value extraction, value-profile generation, and LLM treatment recommendation for real-world incapacitated patients.
+    Figure 1. Data processing and modeling framework for assessing value-informed, LLM-enabled decision support. Figure 1A. Comparison of LLM and human proxy decision-making for hypothetical end-of-life scenarios with and without access to documented patient values. Figure 1B. Workflow for EHR summarization, value extraction, value-profile generation, and LLM treatment recommendation for real-world incapacitated patients.
   </em></sub>
-</p>
+</div>
 
 #### Main Findings
 * Patient-proxy decisional agreement (i.e., choosing the same treatment) on hypothetical clinical scenarios was 44.7% (95% CI: 28.6-61.9%), similar to previous reports.
