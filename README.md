@@ -6,7 +6,7 @@ Moseley R‡, Loftus T‡* (2026).
 * † Drs. Nolan and Brown contributed equally 
 * ‡ Drs. Moseley and Loftus contributed equally
 
-#### KEY WORDS
+#### Key Words
 Advance Directives, Artificial Intelligence, Clinical Decision Making, Critical Care,  End-Of-Life, Health Literacy, Incapacitation, Large Language Models, Proxy 
 
 #### Overview
