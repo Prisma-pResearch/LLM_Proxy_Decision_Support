@@ -1,17 +1,17 @@
 Type,Scenario,Adjudicator,Adjudicator_Type,ReadingLevel,A1 Score,A2 Score,Comments,Extracted Value Score
 Simulated,1,KA,Expert,5th Grade,5,5,,NA
 Simulated,1,KA,Expert,8th/9th Grade,5,5,,NA
-Simulated,1,KA,Expert,College Level,2,1,"This patientís quality of life is already compromised to the extent that she is dependent on others for most cares, meaning that further compromise from nephrostomy tubes would be marginal.",NA
+Simulated,1,KA,Expert,College Level,2,1,"This patient‚Äôs quality of life is already compromised to the extent that she is dependent on others for most cares, meaning that further compromise from nephrostomy tubes would be marginal.",NA
 Simulated,2,KA,Expert,5th Grade,2,1,"This patient faces a substantial risk of morbidity and mortality from evisceration and/or obstruction should he remain in a less restrictive environment, and that could be worse than the pain he experiences from being in a less restrictive environment.",NA
 Simulated,2,KA,Expert,8th/9th Grade,4,1,,NA
 Simulated,2,KA,Expert,College Level,2,1,,NA
 Simulated,3,KA,Expert,5th Grade,1,5,,NA
 Simulated,3,KA,Expert,8th/9th Grade,1,5,,NA
 Simulated,3,KA,Expert,College Level,1,5,,NA
-Simulated,4,KA,Expert,5th Grade,4,1,This patient was already stuck with needles to obtain blood specimens for the labs that established liver injury. A peripheral IV may have been left behind from one of these draws. Itís difficult to argue that an injection in such an IV would constitute aggressive care.,NA
+Simulated,4,KA,Expert,5th Grade,4,1,This patient was already stuck with needles to obtain blood specimens for the labs that established liver injury. A peripheral IV may have been left behind from one of these draws. It‚Äôs difficult to argue that an injection in such an IV would constitute aggressive care.,NA
 Simulated,4,KA,Expert,8th/9th Grade,4,1,,NA
 Simulated,4,KA,Expert,College Level,4,1,,NA
-Simulated,5,KA,Expert,5th Grade,1,1,This patientís cognitive impairment is potentially reversible.,NA
+Simulated,5,KA,Expert,5th Grade,1,1,This patient‚Äôs cognitive impairment is potentially reversible.,NA
 Simulated,5,KA,Expert,8th/9th Grade,5,5,,NA
 Simulated,5,KA,Expert,College Level,1,1,,NA
 Simulated,6,KA,Expert,5th Grade,5,5,"This patient was not a good candidate for a procedure (even a trans-anal alternative to rectopexy), regardless of her value profile. She probably would not be able to learn to stop straining, and such a repair would not be durable, and she would return with recurrent prolapse.",NA
@@ -23,7 +23,7 @@ Simulated,7,KA,Expert,College Level,5,5,,NA
 Simulated,8,KA,Expert,5th Grade,5,5,,NA
 Simulated,8,KA,Expert,8th/9th Grade,5,5,,NA
 Simulated,8,KA,Expert,College Level,5,5,,NA
-Simulated,9,KA,Expert,5th Grade,5,4,This patientís age is unknown but is relevant to prognostication.,NA
+Simulated,9,KA,Expert,5th Grade,5,4,This patient‚Äôs age is unknown but is relevant to prognostication.,NA
 Simulated,9,KA,Expert,8th/9th Grade,5,4,,NA
 Simulated,9,KA,Expert,College Level,5,4,,NA
 Simulated,10,KA,Expert,5th Grade,5,5,,NA
@@ -49,10 +49,10 @@ Simulated,16,KA,Expert,8th/9th Grade,5,5,,NA
 Simulated,16,KA,Expert,College Level,5,5,,NA
 Simulated,17,KA,Expert,5th Grade,5,5,,NA
 Simulated,17,KA,Expert,8th/9th Grade,5,5,,NA
-Simulated,17,KA,Expert,College Level,5,5,"I do not think organ scarcity should have been factored in, as in the ECMO scenario, but it is worth noting that scarcity of transplant organs is partly a function of how choosy the transplant surgeon is. Surgeons can transplant organs that are not a very good match for the patient by counseling the patient that itís not a very good match, and the patient may accept the organ anyway, out of a sense of desperation, especially if theyíve been turned down for transplant elsewhere (for example, because of an uncontrolled cause of organ failure). In such a case, the biggest obstacle to transplant isnít whether the organ is a good match, or whether the patient is a good candidate, but whether the patient has insurance that will pay the surgeon lots of money.",NA
-Simulated,18,KA,Expert,5th Grade,5,4,"This patient could be a candidate for EVAR which is an alternative to open repair performed variously by surgeons and interventional radiologists, depending on the hospital. If EVAR is performed by a surgeon in the given hospital, ìno surgeryî seems premature, but EVAR is instead performed by interventional radiologists in the given hospital, ìno surgeryî makes sense and the patient should be referred for that.",NA
+Simulated,17,KA,Expert,College Level,5,5,"I do not think organ scarcity should have been factored in, as in the ECMO scenario, but it is worth noting that scarcity of transplant organs is partly a function of how choosy the transplant surgeon is. Surgeons can transplant organs that are not a very good match for the patient by counseling the patient that it‚Äôs not a very good match, and the patient may accept the organ anyway, out of a sense of desperation, especially if they‚Äôve been turned down for transplant elsewhere (for example, because of an uncontrolled cause of organ failure). In such a case, the biggest obstacle to transplant isn‚Äôt whether the organ is a good match, or whether the patient is a good candidate, but whether the patient has insurance that will pay the surgeon lots of money.",NA
+Simulated,18,KA,Expert,5th Grade,5,4,"This patient could be a candidate for EVAR which is an alternative to open repair performed variously by surgeons and interventional radiologists, depending on the hospital. If EVAR is performed by a surgeon in the given hospital, ‚Äúno surgery‚Äù seems premature, but EVAR is instead performed by interventional radiologists in the given hospital, ‚Äúno surgery‚Äù makes sense and the patient should be referred for that.",NA
 Simulated,18,KA,Expert,8th/9th Grade,5,4,,NA
-Simulated,18,KA,Expert,College Level,5,4,"Quotidian. Vicissitudes. If anyone used these words in a discussion about end-of-life care with me, I would wonder whether they were thinking about their patient, or whether they were distracted by some piece of 400-year-old literature theyíd recently read. I would guess that they came from extreme wealth, and I want to never talk to them again, and yet I would continue talking to them out of a feeling that I had little choice in the matter. The prospect of death is a huge cognitive load, making plain language appropriate and effective (and also less alienating).",NA
+Simulated,18,KA,Expert,College Level,5,4,"Quotidian. Vicissitudes. If anyone used these words in a discussion about end-of-life care with me, I would wonder whether they were thinking about their patient, or whether they were distracted by some piece of 400-year-old literature they‚Äôd recently read. I would guess that they came from extreme wealth, and I want to never talk to them again, and yet I would continue talking to them out of a feeling that I had little choice in the matter. The prospect of death is a huge cognitive load, making plain language appropriate and effective (and also less alienating).",NA
 Simulated,19,KA,Expert,5th Grade,5,5,,NA
 Simulated,19,KA,Expert,8th/9th Grade,5,5,"This patient is probably not responsible for their own meals or transportation, making this part about commitment immaterial.",NA
 Simulated,19,KA,Expert,College Level,5,5,,NA
@@ -73,20 +73,20 @@ Simulated,24,KA,Expert,8th/9th Grade,5,5,,NA
 Simulated,24,KA,Expert,College Level,5,5,,NA
 Simulated,25,KA,Expert,5th Grade,1,5,This patient chose to wear the pendant.,NA
 Simulated,25,KA,Expert,8th/9th Grade,1,5,,NA
-Simulated,25,KA,Expert,College Level,5,1,"Apart from any consideration of the patientís values, a patient with a ruptured aortic aneurysm that we expect would respond to blood products should be transfused. Incidentally, this is another case where EVAR might be a possibility.",NA
+Simulated,25,KA,Expert,College Level,5,1,"Apart from any consideration of the patient‚Äôs values, a patient with a ruptured aortic aneurysm that we expect would respond to blood products should be transfused. Incidentally, this is another case where EVAR might be a possibility.",NA
 Simulated,26,KA,Expert,5th Grade,5,5,,NA
 Simulated,26,KA,Expert,8th/9th Grade,5,5,,NA
-Simulated,26,KA,Expert,College Level,5,5,"It seemed like his only real health problem was his Alzheimerís, which was early. I have seen patients ask for an ostomy because the risk of the surgery seems lower than the risk of eventually dying from a necrotizing soft tissue infection, not to mention that it sucks having to be turned over and cleaned up after every bowel movement. I think an ostomy in this situation is the less undignified option. I am not sure this is a close call.",NA
-Simulated,27,KA,Expert,5th Grade,4,1,"There is nuance here that might not addressed by the patientís statement. When people say they donít want to go on dialysis, they often mean they donít want to spend many hours a day a few days a week in a dialysis chair for what might be the rest of their life, getting stuck through a possibly grotesque-appearing aneurysmal arteriovenous fistula. That is permanent dialysis, rather than the temporary dialysis proposed for this question. Months are needed to determine the extent of recovery of renal function following acute kidney injury, and whether the need for dialysis will become permanent.",NA
+Simulated,26,KA,Expert,College Level,5,5,"It seemed like his only real health problem was his Alzheimer‚Äôs, which was early. I have seen patients ask for an ostomy because the risk of the surgery seems lower than the risk of eventually dying from a necrotizing soft tissue infection, not to mention that it sucks having to be turned over and cleaned up after every bowel movement. I think an ostomy in this situation is the less undignified option. I am not sure this is a close call.",NA
+Simulated,27,KA,Expert,5th Grade,4,1,"There is nuance here that might not addressed by the patient‚Äôs statement. When people say they don‚Äôt want to go on dialysis, they often mean they don‚Äôt want to spend many hours a day a few days a week in a dialysis chair for what might be the rest of their life, getting stuck through a possibly grotesque-appearing aneurysmal arteriovenous fistula. That is permanent dialysis, rather than the temporary dialysis proposed for this question. Months are needed to determine the extent of recovery of renal function following acute kidney injury, and whether the need for dialysis will become permanent.",NA
 Simulated,27,KA,Expert,8th/9th Grade,4,1,,NA
 Simulated,27,KA,Expert,College Level,4,1,,NA
 Simulated,28,KA,Expert,5th Grade,4,5,,NA
 Simulated,28,KA,Expert,8th/9th Grade,2,1,"A lot of patients in this age range who present with vague pain are already thinking about cancer and surgery, to the point that I assume some degree of interest in therapy simply by their decision to show up. I would get a translator (not the son) and ask her what she thought was happening, and what she was afraid of, and she would probably bring up cancer herself. I might explain that dying from untreated disease would be more distressful and painful in some ways than this surgery. ",NA
 Simulated,28,KA,Expert,College Level,2,1,,NA
-Simulated,29,KA,Expert,5th Grade,5,5,"It doesnít sound like TURP is even on the table and surgeons canít be compelled to cut if they think itís not warranted. In this case, itíd probably result in a patient not just dying, but dying with a little discomfort. I think that compared to SPC, TURP requires heavier anesthesia, which is risky in this patient.",NA
+Simulated,29,KA,Expert,5th Grade,5,5,"It doesn‚Äôt sound like TURP is even on the table and surgeons can‚Äôt be compelled to cut if they think it‚Äôs not warranted. In this case, it‚Äôd probably result in a patient not just dying, but dying with a little discomfort. I think that compared to SPC, TURP requires heavier anesthesia, which is risky in this patient.",NA
 Simulated,29,KA,Expert,8th/9th Grade,5,5,,NA
 Simulated,29,KA,Expert,College Level,5,5,I assume this refers to SPC (intervention is given as SPC vs. TURP).,NA
-Simulated,30,KA,Expert,5th Grade,5,1,"It doesnít appear that she was on oxygen when this happened. She might be having a COPD exacerbation that could be treated with antibiotics and steroids, and could go on living for years afterwards.",NA
+Simulated,30,KA,Expert,5th Grade,5,1,"It doesn‚Äôt appear that she was on oxygen when this happened. She might be having a COPD exacerbation that could be treated with antibiotics and steroids, and could go on living for years afterwards.",NA
 Simulated,30,KA,Expert,8th/9th Grade,5,1,,NA
 Simulated,30,KA,Expert,College Level,5,1,,NA
 Simulated,31,KA,Expert,5th Grade,5,5,,NA
@@ -101,7 +101,7 @@ Simulated,33,KA,Expert,College Level,5,5,,NA
 Simulated,34,KA,Expert,5th Grade,5,5,This patient is acutely septic. I doubt they would be offered chemoradiation or radical surgery,NA
 Simulated,34,KA,Expert,8th/9th Grade,5,5,,NA
 Simulated,34,KA,Expert,College Level,5,5,,NA
-Simulated,35,KA,Expert,5th Grade,5,1,"Even if Samatha is correct, I would guess that in all (or nearly all) US states, law would make the familyís wishes binding. Ideally someone would sit down with them all to address these discrepancies.",NA
+Simulated,35,KA,Expert,5th Grade,5,1,"Even if Samatha is correct, I would guess that in all (or nearly all) US states, law would make the family‚Äôs wishes binding. Ideally someone would sit down with them all to address these discrepancies.",NA
 Simulated,35,KA,Expert,8th/9th Grade,5,1,,NA
 Simulated,35,KA,Expert,College Level,5,1,,NA
 Simulated,1,NB,Expert,5th Grade,4,4,,NA
