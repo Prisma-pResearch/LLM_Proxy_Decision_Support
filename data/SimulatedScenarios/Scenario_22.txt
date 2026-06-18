@@ -1,0 +1,8 @@
+Scenario #20
+Patient Name: Mrs. Lillian "Lily" Green
+Age: 73 years
+Background: Mrs. Lillian Green, affectionately known as "Lily" in her community, was a celebrated local artist, creating vibrant landscapes and portraits. A few years ago, she was diagnosed with early-onset Parkinson's disease, which slowly began to affect her mobility and fine motor skills, making painting increasingly difficult. Despite her health challenges, she remained upbeat and continued to teach art classes to children in her community.
+Current Living Situation: Lily lived alone in a charming cottage filled with her artworks. She has a son and daughter, both living out of state, and three grandchildren whom she adores.
+Presenting Complaint: Lily was found unresponsive in her art studio by a neighbor. She was immediately rushed to the hospital. Preliminary assessments indicated she might have ingested a significant quantity of medications.
+Clinical Findings: Upon stabilization, the medical team discovered that Lily's liver was severely compromised, likely due to the ingestion of a high dose of acetaminophen. Acetylcysteine, an antidote for acetaminophen overdose, can potentially save her liver and her life but needs to be administered promptly.
+Clinical Decision Point: The challenge arises from a letter found in her art studio, which, while not a formal legal document, expressed her feelings of despair at the progression of her disease and her wish not to be subjected to aggressive medical interventions should her condition deteriorate. With Lily currently not lucid enough to make decisions, the medical team must decide how to proceed, given the life-saving potential of the antidote versus the sentiments expressed in her letter.

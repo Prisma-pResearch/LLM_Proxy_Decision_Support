@@ -1,0 +1,11 @@
+Scenario #41
+Patient Name: Mr. Arjun Patel
+Age: 76 years
+Background: Mr. Arjun Patel is an immigrant from India who moved to the U.S. forty years ago. He has always been the patriarch of the family, making significant decisions for the extended family.
+Living Situation: He lives with his eldest son's family, which includes his daughter-in-law and three grandchildren. 
+Medical History: Mr. Patel has a history of controlled hypertension and was recently diagnosed with early-stage chronic kidney disease.
+Presenting Complaint: Over the past month, he has been feeling increasingly fatigued. A routine checkup revealed he had advanced to end-stage renal disease, necessitating dialysis.
+Clinical Situation: The nephrologist explained the situation to Mr. Patel's eldest son, Ravi, in the presence of Mr. Patel. The doctor outlined the potential for dialysis or kidney transplant, but also mentioned that given Mr. Patel's age and other comorbidities, the prognosis even with treatment is guarded.
+Ravi, understanding the gravity of the situation, politely interrupted the physician and requested to discuss the matter outside the room, away from his father.
+Once outside, Ravi expressed that in their culture, it's common to shield the elderly from dire health news. He conveyed that it's the family's duty to bear the burden of difficult decisions and to protect the elderly from distressing information. Ravi asked the medical team not to discuss the prognosis directly with Mr. Patel and instead relay all medical information through him.
+Current Dilemma: The medical team is now faced with a challenging situation. On one hand, there's the ethical duty to ensure that the patient is fully informed about his condition and has the autonomy to make decisions about his care. On the other hand, they must respect the cultural practices and wishes of the family, which are rooted in care and respect for the elderly. The team must navigate this delicate balance, potentially involving medical ethics consultation and cultural liaison services.

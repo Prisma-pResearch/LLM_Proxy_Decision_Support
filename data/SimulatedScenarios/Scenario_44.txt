@@ -1,0 +1,11 @@
+Scenario #42
+Patient Name: Mrs. Aisha Al-Farouq
+Age: 68 years
+Background: Mrs. Aisha Al-Farouq immigrated from a conservative region in the Middle East two decades ago. Mrs. Al-Farouq has limited proficiency in English and typically relies on her eldest son, Omar, to assist with medical appointments.
+Living Situation: She lives with her husband and is frequently visited by her three adult children and their families.
+Medical History: Mrs. Al-Farouq has a history of osteoarthritis and mild type 2 diabetes.
+Presenting Complaint: For the past six months, she has experienced worsening abdominal pain. Imaging revealed a sizable mass in her lower abdomen, suspected to be ovarian in origin.
+Clinical Situation: The gynecologic oncologist, after evaluating the images and initial biopsy, suspects an ovarian malignancy. Surgery is recommended both for definitive diagnosis and potential curative treatment. The procedure would involve a total abdominal hysterectomy and bilateral salpingo-oophorectomy.
+Upon discussing the findings and recommended surgery, Omar asked to speak privately with the physician, away from his mother.
+Outside the room, Omar expressed concerns about the proposed surgery. He worried about his mother's potential emotional distress, not just from the diagnosis, but also from the nature of the surgery. He asked if there were any alternatives, and if not, he requested that the detailed specifics of the procedure not be discussed with his mother.
+Current Dilemma: The medical team is now faced with an ethical challenge. They believe that the surgery is in Mrs. Al-Farouq's best interest, but they must also consider the cultural and emotional implications for the patient and her family. The team needs to decide how to communicate effectively and sensitively, ensuring that Mrs. Al-Farouq's rights as a patient are respected, while also honoring the cultural wishes of the family.

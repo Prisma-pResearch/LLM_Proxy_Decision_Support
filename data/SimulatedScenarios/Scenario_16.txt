@@ -1,0 +1,8 @@
+Scenario #14:
+Patient Name: Mr. Robert "Bobby" Mitchell
+Age: 64 years
+Background: Mr. Robert Mitchell, known to his friends as "Bobby," has lived a hard life, marked by decades of smoking, drug use, and heavy alcohol consumption. A former construction worker, Bobby had his share of ups and downs, with periods of unemployment and brushes with the law. Over the years, he's become largely sedentary, spending his days at a local bar or in front of his television. He's vocal about his disdain for prolonged medical treatments, often proclaiming to friends and anyone who would listen that he'd "rather die than be put on dialysis."
+Current Living Situation: Bobby lives alone in a one-bedroom apartment, filled with remnants from his past - old vinyl records, construction tools, and faded photographs. He has no known immediate family but is known by a close-knit group of friends from the bar.
+Presenting Complaint: Bobby was found disoriented and confused in his apartment by a neighbor who then called for medical help. He was immediately taken to the hospital.
+Clinical Findings: Initial evaluations revealed that Bobby was suffering from acute on chronic kidney disease. His creatinine and urea levels were alarmingly high, and other lab findings suggested that toxins were building up in his body due to kidney failure.
+Clinical Decision Point: The nephrology team believes that Bobby might benefit from temporary dialysis, which could help clear the toxins from his system and potentially restore some kidney function. However, given Bobby's repeated statements against dialysis, the medical team faces an ethical dilemma.

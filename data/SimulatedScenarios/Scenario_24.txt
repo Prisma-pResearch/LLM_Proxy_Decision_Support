@@ -1,0 +1,7 @@
+Scenario #22
+Patient Name: Mr. Amir Shah
+Age: 58 years
+Background: Mr. Amir Shah, a tenured mathematics professor with numerous accolades, was diagnosed with early-onset dementia three years ago. Before the onset of his cognitive decline, Amir published extensively and was actively involved in academic conferences and seminars. 
+Current Living Situation: He lived with his spouse in a suburban home filled with books, research papers, and mathematical models.
+Presenting Complaint: While having dinner with his family, Amir displayed acute abdominal pain and collapsed. Upon arrival at the hospital, imaging studies revealed a ruptured abdominal aortic aneurysm, necessitating immediate surgical intervention.
+Clinical Context: Amir's medical history, documented during the early stages of his dementia diagnosis, included a clear directive against aggressive surgical interventions, emphasizing a preference for palliative measures in life-threatening situations.

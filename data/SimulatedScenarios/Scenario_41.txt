@@ -1,0 +1,9 @@
+Scenario #39
+Patient Name: Mrs. Edith Collins
+Age: 94 years
+Background: Mrs. Edith Collins, a retired schoolteacher, has been living in a nursing home for the past six years due to advanced dementia. Her cognitive decline has been progressive, and she is mostly non-verbal, requiring assistance with all activities of daily living. Edith has a history of hypertension, osteoarthritis, and a prior hip fracture.
+Living Situation: Living in a nursing home for the past six years.
+Presenting Complaint: During a routine medical checkup at the nursing home, irregularities in Edith's heartbeat were detected. Further evaluation at the hospital confirmed new-onset atrial fibrillation (AFib).
+Clinical Situation: Atrial fibrillation, especially in the elderly, increases the risk of stroke. Anticoagulation therapy is commonly prescribed to reduce this risk. However, anticoagulants also come with an increased risk of bleeding, which can be especially concerning in older adults who might be prone to falls or have other contraindications.
+Given Edith's advanced dementia, she cannot participate in the decision-making process regarding her treatment. The medical team reviewed her charts and found no prior discussions or directives related to this potential scenario.
+Family Input: Edith's daughter, Laura, is her medical power of attorney. When contacted and informed of her mother's condition, Laura found herself torn. On one hand, she wanted to protect her mother from a potential stroke, but she also feared the risk of a major bleeding event, especially given her mother's prior hip fracture and potential for falls. Laura recalled her mother's general wish to avoid aggressive interventions in her later years, but there was no specific directive about situations like this.

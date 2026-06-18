@@ -1,0 +1,7 @@
+Scenario #23
+Patient Name: Ms. Naomi Kim
+Age: 78 years
+Background: Ms. Naomi Kim, a retired ballet dancer with international acclaim, suffered a cerebrovascular accident (stroke) two years prior. Post-stroke, she exhibited mild hemiparesis and occasional expressive aphasia. 
+Current Living Situation: Naomi lived in an apartment adorned with mementos from her dancing career, including photographs, costumes, and awards.
+Presenting Complaint: Naomi's niece discovered her unresponsive in her living room. Initial assessment revealed severe hypoglycemia, a complication from her diabetes medications. Immediate intravenous glucose administration was recommended to reverse her condition.
+Clinical Context: In previous discussions with her healthcare proxy, Naomi had expressed concerns about interventions that might leave her in a significantly debilitated state or compromise her cognitive function further.

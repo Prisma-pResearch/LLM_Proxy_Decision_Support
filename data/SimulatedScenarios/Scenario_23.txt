@@ -1,0 +1,7 @@
+Scenario #21
+Patient Name: Mrs. Helena Ruiz
+Age: 68 years
+Background: Mrs. Helena Ruiz, a retired librarian with a 40-year tenure, was diagnosed with advanced Chronic Obstructive Pulmonary Disease (COPD) five years ago. Prior to her diagnosis, Helena was an active participant in community events, frequently organizing book clubs and reading sessions at the local library. 
+Current Living Situation: She lived alone in her ancestral home, with a well-maintained garden that she tended to every weekend.
+Presenting Complaint: Helena was found by a neighbor in her garden, experiencing acute respiratory distress. Initial assessment in the emergency department indicated hypoxia with decreased oxygen saturation levels. Given her known COPD and the current respiratory distress, the clinical recommendation leaned towards intubation and mechanical ventilation to stabilize her condition.
+Clinical Context: Despite the urgency, Helena's previously documented healthcare preferences indicated a strong aversion to invasive respiratory support, specifically the use of a ventilator.

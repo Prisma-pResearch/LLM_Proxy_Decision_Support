@@ -1,0 +1,8 @@
+Scenario #10
+Patient Name: Mr. Daniel Wallace
+Age: 32 years
+Background: Mr. Daniel Wallace is a 32-year-old software developer known for his affable nature and dedication to his job. He has a close group of friends and an estranged relationship with his family. Before his hospitalization, there were no known records or clear history of depression, addiction, or any other psychiatric illness.
+Current Living Situation: Daniel shares an apartment with two roommates in the city. He has been distant from his family for years, and his friends and roommates are his primary support system.
+Presenting Complaint: Daniel was found by a roommate in a confused state at their shared apartment and was immediately rushed to the hospital. The initial assessment suggested severe hepatic encephalopathy.
+Clinical Findings: Further investigations revealed fulminant hepatic failure. History from the roommate and findings from the apartment indicated a potential overdose of Tylenol combined with alcohol consumption.
+Clinical Decision Point: Given the extent of liver damage and the severity of the hepatic encephalopathy, Daniel is a potential candidate for an urgent liver transplant. However, the circumstances leading to his condition, including the possible overdose and alcohol consumption, raise questions about the potential risks and benefits of transplantation, especially considering the scarcity of donor organs.

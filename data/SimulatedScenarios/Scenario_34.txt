@@ -1,0 +1,8 @@
+Scenario #32
+Patient Name: Mr. Robert (Bob) Mitchell
+Age: 68 years
+Background: Mr. Robert Mitchell, a former coal miner, was diagnosed with chronic obstructive pulmonary disease (COPD) fifteen years ago. Over the years, his lung function has progressively declined. He has been on home oxygen therapy for the past five years and has had multiple hospital admissions due to exacerbations of his COPD. Bob's wife passed away three years ago, and since then, his adult son, Mike, has taken an active role in his care, assisting with medical appointments and managing his father's medications.
+Living situation: Living at home.
+Presenting Complaint: Bob was brought to the emergency department with severe shortness of breath following a minor respiratory infection. He was promptly intubated and placed on mechanical ventilation due to respiratory failure.
+Clinical Situation: Despite aggressive treatments, Bob's condition did not show significant improvement. Prolonged intubation raised concerns about potential ventilator-associated complications. The pulmonology team assessed that transitioning to a tracheostomy might be necessary for long-term ventilation. However, given his advanced COPD and overall poor prognosis, the effectiveness and appropriateness of such an intervention are uncertain.
+Previous Discussions: Mike recalled discussions with his father about his COPD journey. Bob had been explicit that while he wanted treatments to alleviate discomfort or distress, he did not want prolonged life-sustaining interventions if they wouldn't lead to meaningful recovery or a reasonable quality of life. He had seen fellow miners endure prolonged hospital stays and had always expressed a desire to avoid similar situations.

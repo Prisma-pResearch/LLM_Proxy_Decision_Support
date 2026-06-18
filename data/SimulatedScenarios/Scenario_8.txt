@@ -1,0 +1,9 @@
+Scenario #7
+Patient Name: Mrs. Alice Mabel
+Age: 69 years
+Background: Mrs. Alice Mabel is a retired schoolteacher. Widowed a decade ago, she has two grown-up children and three grandchildren. Eleanor has been diagnosed with chronic obstructive pulmonary disease (COPD) due to many years of smoking, although she quit 15 years ago. She also has a history of osteoporosis.
+Current Living Situation: Alice lives in a senior community where she has many friends. Her daughter lives nearby and visits often, helping with errands and doctor's appointments.
+Presenting Complaint: Alice was admitted to the hospital after a minor fall at home. Though she didn't sustain any fractures, her oxygen levels were concerning, indicating a COPD exacerbation.
+Clinical Findings: During her hospital stay, Alice’s breathing difficulties increased. She also began experiencing difficulty swallowing, often coughing during meals.
+Investigations: A swallow evaluation revealed that Alice had developed dysphagia, likely a result of her COPD exacerbation and muscle weakness.
+Clinical Decision Point: The standard approach to significant dysphagia is to consider a percutaneous endoscopic gastrostomy (PEG) tube to ensure adequate nutrition. However, given Eleanor's overall health status and prognosis with advanced COPD, the team is considering whether conservative management with dietary modifications might be more appropriate. Eleanor's children, however, are keen on the PEG placement, believing it will improve her quality of life.

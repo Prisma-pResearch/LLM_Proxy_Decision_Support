@@ -1,0 +1,9 @@
+Scenario #48
+Patient Name: Ms. Clara Thompson
+Age: 28 years
+Background: Clara Thompson was born with a rare genetic disorder that led to significant cognitive impairment. Despite her challenges, she has a joyful spirit and enjoys simple pleasures like listening to music and spending time in nature. 
+Living Situation: She has lived most of her life in a specialized care facility, where the staff has become like a second family to her. Clara's parents, Anne and David, visit her weekly and are deeply involved in her care.
+Presenting Complaint: Clara was noted by the care facility staff to have difficulty breathing, accompanied by a persistent cough. She was unable to effectively communicate any other symptoms she might be experiencing. Given her distress, she was taken to the local emergency department.
+Clinical Findings: After thorough evaluation, Clara was found to have a severe congenital heart defect that had been undiagnosed until now. It was causing her current respiratory distress and other complications.
+Clinical Situation: Cardiologists determined that while surgery could potentially correct the defect and improve Clara's quality of life, the procedure carried significant risks, especially given her overall health status. Without the surgery, however, her life expectancy might be drastically reduced, and her symptoms could become increasingly difficult to manage.
+When presented with the findings, Anne and David were torn. They wanted the best for Clara but grappled with the decision's weight. On one hand, the surgery could give Clara more comfortable years; on the other hand, the risks of the procedure could lead to immediate complications or even loss of life.

@@ -1,0 +1,9 @@
+Scenario #40
+Patient Name: Mr. James Walters
+Age: 40 years
+Background: Mr. James Walters was born with severe congenital neurocognitive deficits. Over the past decade, James has become morbidly obese, with a BMI of 48. He has developed secondary complications like type 2 diabetes, obstructive sleep apnea, and hypertension.
+Living Situation: He has always required assistance with many daily activities and has lived in a care facility since his teenage years. 
+Presenting Complaint: James's primary care physician, noting the progressive worsening of his obesity-related conditions and the challenges in achieving weight loss through conventional methods, referred him to a bariatric surgeon for evaluation.
+Clinical Situation: The bariatric surgeon determined that James is a candidate for gastric bypass surgery, a procedure that could significantly reduce his weight and improve or resolve many of his obesity-related health issues. However, the surgery comes with risks, requires a commitment to post-operative dietary changes, and entails regular follow-up visits.
+Given James's cognitive condition, he is unable to provide informed consent or fully understand the implications of the surgery. His understanding of the procedure, its benefits, and its risks is limited.
+Family Input: James's older sister, Marie, is his legal guardian. She is apprehensive about the surgery. While she recognizes the potential benefits for James's physical health, she is concerned about his ability to adhere to post-operative requirements, given his cognitive limitations. She wonders if the potential improvements in his health are worth the surgical risks and the potential challenges in post-operative care.

@@ -1,0 +1,8 @@
+Scenario #5
+Patient Name: Mrs. Grace Hamilton
+Age: 70 years
+Background: Mrs. Grace Hamilton is a retired librarian who has lived a rich and fulfilling life. She has two adult children and four grandchildren all of whom live in the United Kingdom. Recently, she underwent a distal bypass surgery due to peripheral vascular disease. During her post-op recovery in the hospital, she had multiple conversations with a resident doctor. She frequently expressed her contentment with the life she's lived and shared her philosophy of "letting nature run its course" rather than pursuing aggressive medical interventions.
+Current Living Situation: Prior to her hospitalization for the bypass surgery, Mrs. Hamilton lived alone in a small apartment, having lost her husband five years ago. Her children visit her frequently, and she enjoys spending time reading and gardening.
+Presenting Complaint: A few days post-operation, Mrs. Hamilton started showing symptoms of respiratory distress. She developed a fever, persistent cough, and difficulty breathing, quickly requiring emergent intubation and sedation. She continues to decompensate. 
+Clinical Findings: Upon evaluation, Mrs. Hamilton's oxygen saturation was found to be decreasing rapidly. A chest X-ray and subsequent tests confirmed a diagnosis of severe COVID-19 pneumonia.
+Clinical Decision Point: Given the severity of her pneumonia and her decreasing oxygen levels, the medical team is considering advanced interventions. Extracorporeal membrane oxygenation (ECMO) could potentially support her lungs and give her a chance of recovery. However, the hospital has limited ECMO machines, and there are other critically ill COVID-19 patients who might also benefit from the intervention.

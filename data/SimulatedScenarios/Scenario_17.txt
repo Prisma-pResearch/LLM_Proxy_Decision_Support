@@ -1,0 +1,8 @@
+Scenario #15
+Patient Name: Mrs. Grace Anderson
+Age: 85 years
+Background: Mrs. Grace Anderson is an 85-year-old former schoolteacher, renowned for her love of literature and her involvement in community plays. Widowed with no children, Grace has always been fiercely independent and lived life on her terms. However, over the past year, Grace's cognitive faculties have been deteriorating, with her neurologist diagnosing her with advanced Alzheimer's disease.
+Current Living Situation: Grace lives in her cherished childhood home, surrounded by books, artworks, and memories of her late husband. She has a close circle of friends and former students who visit regularly, and she remains a beloved figure in the community.
+Presenting Complaint: Grace was admitted to the hospital following a minor fall at home. While the fall itself caused no significant injury, routine examinations revealed she had a slow-growing, non-aggressive form of lymphoma. Due to her advanced Alzheimer's, Grace is unable to understand her diagnosis or participate in decisions regarding her care.
+Clinical Findings: The oncology team believes that Grace's lymphoma, given its non-aggressive nature, doesn't necessarily require immediate treatment. However, treatment could potentially prolong her life.
+Clinical Decision Point: The medical team, in collaboration with Grace's appointed healthcare proxy, is faced with the challenge of discussing treatment options. The value of initiating potentially aggressive chemotherapy, with its associated risks and benefits, needs to be weighed against Grace's current quality of life and the values she held before her cognitive decline.

@@ -1,0 +1,8 @@
+Scenario #18
+Patient Name: Mrs. Clara Martinez
+Age: 57 years
+Background: Mrs. Clara Martinez was a successful architect, known for her innovative designs and passion for sustainable architecture. Ten years ago, Clara was diagnosed with a benign brain tumor, which resulted in her undergoing a partial brain lobectomy. Since the surgery, Clara has experienced cognitive and motor deficits. She requires assistance with most daily activities and has occasional seizures, but she still enjoys moments of clarity and connection with her surroundings, especially when listening to music or when with her family.
+Current Living Situation: Clara resides in a care facility specializing in patients with neurological disorders. Her room is adorned with photos of her designs, her family, and tokens from her travels. Her two children visit her regularly, bringing along her young grandchildren, who Clara clearly recognizes and adores.
+Presenting Complaint: Clara was admitted to the hospital with symptoms of severe flank pain, fever, and nausea. Investigations revealed bilateral hydronephrosis, likely due to obstructing kidney stones.
+Clinical Findings: Due to Clara's complex medical history and the risks associated with anesthesia, the urology team is hesitant about performing a traditional stone removal procedure. They consider placing nephrostomy tubes as an alternative to alleviate the obstruction and allow for kidney drainage.
+Clinical Decision Point: The medical team, along with Clara's eldest daughter (who acts as her medical proxy), needs to decide on the best course of action. The decision to place nephrostomy tubes must be weighed against potential complications, Clara's current quality of life, and the long-term care implications of such a procedure.

@@ -1,0 +1,9 @@
+Scenario #6
+Patient Name: Mr. Albert Reynolds
+Age: 77 years
+Background: Mr. Albert Reynolds is a 77-year-old widower, retired from a career in accounting. He has a history of multiple cardiac comorbidities and diabetes. Albert lost his wife five years ago and since then has led a predominantly sedentary lifestyle. He never smoked, but his wife was a smoker for many years, exposing him to second-hand smoke for a considerable duration.
+Current Living Situation: Albert lives alone in a one-bedroom apartment. His two adult children live nearby and visit him frequently. They assist with grocery shopping, house chores, and accompany him to doctor's appointments.
+Presenting Complaint: Albert was admitted to the hospital with severe breathlessness and fatigue. Initial evaluations indicated severe heart failure.
+Clinical Findings: Upon admission, Albert's heart failure was managed, but his prognosis was determined to be poor with an expected survival of just a few months. During his hospitalization, he started experiencing difficulties in urination, indicating urinary retention.
+Investigations: A urological assessment revealed that Albert had benign prostatic hyperplasia (BPH), a common condition in older men where the prostate gland enlarges, leading to urinary retention.
+Clinical Decision Point: While the standard treatment for BPH causing significant symptoms is a transurethral resection of the prostate (TURP), given Albert's severe heart failure and poor prognosis, the procedure poses significant risks. The medical team believes that placing a suprapubic catheter (a catheter placed directly into the bladder through the abdominal wall) would alleviate the urinary retention without the risks of surgery. However, Albert's family insists on the TURP, believing it to be the "standard" treatment.

@@ -1,0 +1,9 @@
+Scenario #25
+Patient Name: Mr. Albert Mitchell
+Age: 79 years
+Background: Mr. Albert Mitchell, a former history teacher, has over the past few years become largely bed-bound due to a confluence of medical conditions, including advanced heart failure, chronic obstructive pulmonary disease (COPD), and osteoarthritis. Despite these health challenges, Albert's spirit remained undiminished. He took great pleasure in simple joys, like reading historical novels or watching his grandchildren play in the garden from his bedroom window. His laughter was a common sound in the house, echoing his belief that while his body might be limited, his zest for life was not.
+Living Situation: Living at home.
+Presenting Complaint: Recently, Albert began to complain of a sudden, sharp pain in his chest and back. He was rushed to the hospital where imaging revealed an aortic dissection, a serious condition where the inner layer of the aorta tears, allowing blood to surge through the tear and causing the inner and middle layers of the aorta to separate.
+Clinical Decision Point: The cardiovascular surgical team assessed Albert's condition and determined that while surgery could potentially repair the dissection, given Albert's multiple comorbidities, the risks were substantial. There was a significant chance he might not survive the surgery or the immediate post-operative period. Additionally, even if he did survive, the intensive recovery could further compromise his already limited quality of life.
+The medical team, considering the potential futility of the procedure and the likely burdens it would place on Albert, hesitated in recommending the operation. However, Albert's family, driven by their love and the desire to have every possible moment with him, insisted on the surgery. They fervently believed that any chance, no matter how slim, was worth taking to prolong his life.
+

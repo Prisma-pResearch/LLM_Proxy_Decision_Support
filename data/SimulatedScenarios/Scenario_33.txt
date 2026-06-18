@@ -1,0 +1,8 @@
+Scenario #31
+Patient Name: Mrs. Eleanor Green
+Age: 76 years
+Background: Mrs. Eleanor Green, once an active school principal, was diagnosed with vascular dementia three years ago. Since the diagnosis, she has shown a consistent decline in cognitive abilities, often struggling with memory and complex tasks. 
+Living situation: As her condition progressed, her eldest daughter and son-in-law took on the role of her primary caregivers, ensuring she received proper care and support in her daily life. They adapted their home environment to accommodate Eleanor's needs, installed safety measures, and attended regular medical check-ups with her.
+Presenting Complaint: Eleanor's recent hospital admission followed an unexpected syncopal episode at home. After stabilizing her, the medical team carried out a series of diagnostic tests to determine the cause. The results were concerning: imaging and biopsy confirmed the presence of pancreatic cancer, which had already metastasized to her liver.
+Clinical Situation: The oncology team, after a comprehensive review, concluded that while chemotherapy might offer a temporary slowdown in the cancer's progression, it was not curative. Given Eleanor's age, her underlying dementia, and the advanced nature of the cancer, they recognized that the treatment might come with a set of challenges and could impact her already compromised quality of life.
+Previous Discussions: Eleanor's daughter recalled past conversations, predating Eleanor's significant cognitive decline. Eleanor had expressed a clear wish to prioritize comfort over aggressive treatments if ever faced with a terminal illness, especially if the treatments were unlikely to restore or significantly extend quality life.

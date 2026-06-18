@@ -1,0 +1,9 @@
+Scenario #13
+Patient Name: Mr. James Fletcher
+Age: 78 years
+Background: Mr. James Fletcher is a 78-year-old former jazz musician who spent decades touring and performing. He's known for his charismatic presence and deep love for music. He has a wife, two children, and several grandchildren. James has been a smoker for the majority of his life, often pairing his cigarettes with a glass of whiskey.
+Current Living Situation: James and his wife, Lorraine, live in a quiet suburban home filled with memorabilia from his music career. Their children visit frequently, and one of them, a nurse, has taken an active role in understanding and managing James's health situation, especially given his recent cognitive decline.
+Presenting Complaint: Over the past few months, James began losing weight and experiencing difficulty swallowing, particularly with solid foods. Concerned, his family encouraged him to seek medical attention.
+Clinical Findings: An endoscopy revealed a sizable tumor in the middle third of James's esophagus. A biopsy confirmed the diagnosis of esophageal cancer. Further imaging showed that the cancer has locally advanced but there's no evidence of distant metastases.
+Complication: As James's treatment was being discussed, he suffered a significant stroke, which severely impacted his cognitive function. He now struggles with speech, understanding, and decision-making. While he occasionally has moments of clarity, they are fleeting, and he cannot consistently participate in discussions about his care.
+Clinical Decision Point: With James's new incapacitation, the decision falls to his family and his designated medical proxy. The medical team is faced with the challenge of discussing aggressive treatment options, including surgery and chemoradiation, versus palliative care approaches.
