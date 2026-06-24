@@ -6,9 +6,6 @@ Moseley R‡, Loftus T‡* (2026).
 * † Drs. Nolan and Brown contributed equally 
 * ‡ Drs. Moseley and Loftus contributed equally
 
-#### Key Words
-Advance Directives, Artificial Intelligence, Clinical Decision Making, Critical Care,  End-Of-Life, Health Literacy, Incapacitation, Large Language Models, Proxy 
-
 #### Overview
 When patients lose decision-making capacity, large language models (LLMs) may help proxies choose treatments that honor incapacitated patients’ values and preferences, especially when Advanced Directives or formally identified proxies are ambiguous or unavailable. In a primary analysis, we prospectively enrolled 30 adults representing 15 dyads (15 patients alongside their legal, patient-designated, proxy decision-maker) and compared patient-proxy versus patient-LLM binary decisional agreement on multiple-choice hypothetical clinical scenarios, with and without providing patients’ value profiles to the LLM. In secondary analyses, we explored the extraction of value profiles from electronic health record data for situations in which patients lose decisional capacity before their values are formally documented and critically evaluate the use of value profiles written at lower reading levels.
 
