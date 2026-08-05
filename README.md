@@ -1,4 +1,4 @@
-## NEJM-AI: Language Models for Value-Informed Proxy Decision Support
+## Language Models for Value-Informed Proxy Decision Support
 
 This repository provides the data and code used in the manuscript entitled, "Language Models for Value-Informed Proxy Decision Support" published in NEJM AI by:
 Nolan V†, Brown M†, Balch J, Katukota A, Abbas S, Devaguptapu P, Baskaran N, Abbott K, Shickel B, Efron P, Upchurch G, Bihorac A, Sharadin N, Tignanelli C, 
@@ -28,7 +28,7 @@ When patients lose decision-making capacity, large language models (LLMs) may he
 Value-informed LLMs show promise as a proof of concept in the potential to assist human proxies in making treatment decisions that reflect the values of patients who have lost decisional capacity. Our findings caution against inferring patients’ values from EHR data and using value profiles that are written at lower reading levels.  
 
 #### License
-TBD by UF Licnensing. 
+Apache License Version 2.0
 
 #### Disclaimer
 Our results are best interpreted as a proof-of-concept that require validation under real-world conditions. This work is provided "as is", without warranty of any kind. The authors of this work will not be liable for any claim, damages or other liability arising in connection with this work.
