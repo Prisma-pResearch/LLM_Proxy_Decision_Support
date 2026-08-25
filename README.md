@@ -2,7 +2,7 @@
 
 This repository provides the data and code used in the manuscript entitled, "Language Models for Value-Informed Proxy Decision Support" published in NEJM AI by:
 Nolan V†, Brown M†, Balch J, Katukota A, Abbas S, Devaguptapu P, Baskaran N, Abbott K, Shickel B, Efron P, Upchurch G, Bihorac A, Sharadin N, Tignanelli C, 
-Moseley R‡, Loftus T‡* (2026).
+Moseley R‡, Loftus T‡* (2026). https://ai.nejm.org/doi/full/10.1056/AIcs2500562 
 * Corresponding author *: Tyler.Loftus@surgery.ufl.edu 
 * † Drs. Nolan and Brown contributed equally 
 * ‡ Drs. Moseley and Loftus contributed equally
